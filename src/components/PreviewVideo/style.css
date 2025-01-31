@@ -11,5 +11,6 @@
 
     .previewContent {
         border-radius: 20px;
+        background: black;
     }
 }
