@@ -1,0 +1,15 @@
+.invite_wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.invite_wrapper h1 {
+    font-style: italic;
+}
+
+.invite_wrapper p {
+    margin: 8px 0;
+}

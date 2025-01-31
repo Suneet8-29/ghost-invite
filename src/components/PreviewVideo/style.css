@@ -1,0 +1,15 @@
+.previewContainer {
+    /* border: 5px solid;
+    padding: 10px; */
+    border-radius: 25px;
+    margin-top: 20px;
+
+    .previewTitle {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .previewContent {
+        border-radius: 20px;
+    }
+}

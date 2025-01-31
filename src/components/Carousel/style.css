@@ -1,0 +1,38 @@
+.slide-container {
+    overflow: hidden;
+
+    @media (max-width: 1200px) {
+        border-radius: 25px;
+    }
+
+
+
+}
+
+.carousel_image {
+    @media (max-width: 1200px) {
+        border-radius: 20px;
+    }
+
+    margin-right: 10px;
+}
+
+.slick-slider {
+    .slick-next {
+        right: 25px;
+
+        &:before {
+            font-size: 35px;
+        }
+    }
+
+    .slick-prev {
+        z-index: 1;
+        left: 10px;
+
+        &:before {
+            font-size: 35px;
+        }
+    }
+
+}
